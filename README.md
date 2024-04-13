@@ -1,1 +1,2 @@
-El siguiente proyecto busca mostrar un controlador, un raycaster con un terreno hecho con una libreria de pintar terrenos a mano.
+Este está en 3d, en resumén, es un controlador que se mueve en dos ejes, no tiene salto ni fisicas aún, hay un raycaster que sirve para hacer el efecto de disparo y hay unos objetivos que son los circulos los cuales al recibir dos clicks o "disparos" desaparecen, que hace el efecto de disparo y hay unos objetivos a los cuales al dispararles se eliminan de la escena. Está hecho con unity para webgl. Este es el link de la página:
+https://nerexrs.github.io/Creavinci-project/
